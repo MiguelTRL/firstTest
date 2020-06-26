@@ -1,0 +1,21 @@
+{
+  "name": "firstname",
+  "version": "0.0.1",
+  "description": "firts course with node",
+  "main": "hello-world.js",
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node math.js"
+  },
+  "keywords": [
+    "first",
+    "example",
+    "somecode"
+  ],
+  "author": "miguel torres",
+  "license": "ISC"
+}
